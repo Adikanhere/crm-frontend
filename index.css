@@ -1,0 +1,6 @@
+/* index.css or App.css */
+body {
+  background-color: rgb(0, 255, 81); /* whole page color */
+  min-height: 100vh;     /* ensure it covers full height */
+  margin: 0;             /* remove default margin */
+}

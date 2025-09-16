@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Sales Rep",
+      "email": "sales@example.com",
+      "password": "sales123",
+      "role": "sales"
+    }
+  ],
+  "customers": [
+    {
+      "id": "f1d4",
+      "name": "user",
+      "company": "xyz",
+      "email": "user@gmail.com",
+      "phone": "123"
+    },
+    {
+      "id": "011c",
+      "name": "Aditya",
+      "company": "TCS",
+      "email": "a@gmail.com",
+      "phone": "321"
+    }
+  ],
+  "leads": [],
+  "opportunities": []
+}
